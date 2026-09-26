@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e7076c-4cf3-403f-8caa-476494886dff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Proveedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Voluntario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto-integrador.Semana5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto-integrador.Semana6-Refactorizacion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/uped/proyecto/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/uped/proyecto/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Docente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Docente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/uped/proyecto/modelo/Visitante.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JYDptaCZuht790ej8ynd6EFU1M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "1",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kanno/Desktop/UNIVERSIDAD/Programacion III/Nuevo Inge/Proyecto-integrador.Semana6_Refactorizacion",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/kanno/Desktop/UNIVERSIDAD/Programacion III/Nuevo Inge/Proyecto-integrador.Semana5/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3137931"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e7076c-4cf3-403f-8caa-476494886dff" name="Changes" comment="" />
+      <created>1789829296375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789829296375</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
